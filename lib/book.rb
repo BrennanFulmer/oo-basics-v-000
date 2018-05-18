@@ -1,4 +1,4 @@
 class Book
-  attr_accessor :title, "author name", "page count", :genre
+  attr_accessor :title, "author_name", "page count", :genre
 
 end
